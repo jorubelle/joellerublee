@@ -2,7 +2,7 @@
 ## Description
 This is a portfolio of work that I have created through MIT xPro Professional Certification in Full Stack Developing with MERN. This highlights some of the skills I am working on learning and improving. 
 ## How to Run
-To add this to your machine, simply clone the repository. Make sure that you have all the files-images included. If you just want to check out how the program looks in your browser, click this link:
+To add this to your machine, simply clone the repository. Make sure that you have all the files-images included. If you just want to check out how the program looks in your browser, click this link: https://jorubelle.github.io/portfolio/
 ## Roadmap of Future Improvements
 I want to continue to add to my projects. I would like to get an updated profile picture. This is an evolving portfolio so many changes will happen along the way. 
 ## License Information
